@@ -1,6 +1,6 @@
-![GitHub package.json version](https://img.shields.io/github/package-json/v/jefferson1984/projeto-tour)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/jefferson1984/projeto-avaliacoes)
 
-![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/projeto-tour)
+![GitHub language count](https://img.shields.io/github/languages/count/jefferson1984/projeto-avaliacoes)
 
 ## Projeto Avaliações.
 
@@ -12,9 +12,9 @@ useState useEffect e Condicional
 
 ## Imagem do Projeto
 
-[projeto-tour.netlify.app](https://projeto-tour.netlify.app/)
+[projeto-avaliacoes.netlify.app](https://projeto-avaliacoes.netlify.app/)
 
-<img src="https://github.com/jefferson1984/projeto-tour/blob/main/tour2.png">
+<img src="https://github.com/jefferson1984/projeto-avaliacoes/blob/main/avaliacoes2.png">
 
 ## Reproduzir
 
