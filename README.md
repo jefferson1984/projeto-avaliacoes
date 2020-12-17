@@ -8,7 +8,7 @@ Objetivo é utilização do react em uma simples aplicação e utilizar alguns c
 
 ## Hooks
 
-useState useEffect e Condicional
+useState e Condicional
 
 ## Imagem do Projeto
 
